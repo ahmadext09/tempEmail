@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">Temp Email</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_email">Email Address</string>
+    <string name="menu_inbox">Inbox</string>
+    <string name="bold">BOLD</string>
+    <string name="normal">NORMAL</string>
+    <string name="save">Save</string>
+    <string name="download">Download</string>
+    <string name="share">Share</string>
+    <string name="change">Change</string>
+    <string name="internet_connection" translatable="false">Please check your internet connection &amp; try again</string>
+    <string name="network_failure" translatable="false">Network Failure</string>
+    <string name="something_went_wrong">Opps! Something went wrong. Please try again.</string>
+    <string name="copy_button_text">COPY</string>
+    <string name="email_page_header">Your Temporary\nEmail Address</string>
+    <string name="copied_to_clipboard">Copied to Clipboard!</string>
+    <string name="your_temporary_mail_address">Your temporary mail address!</string>
+    <string name="empty_inbox_header">Your inbox is empty</string>
+    <string name="click_to_refresh">Click to refresh</string>
+    <string name="icon_refresh">Refresh</string>
+    <string name="inbox_text">Inbox</string>
+    <string name="email">Email:</string>
+    <string name="date">Date:</string>
+    <string name="subject">Subject:</string>
+    <string name="storage_permission_denied">Storage Permissions Denied</string>
+    <string name="download_start">"Download started"</string>
+    <string name="no_application_found">No application found</string>
 </resources>
